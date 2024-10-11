@@ -14,3 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+My name is Abhishek Sankar.
+
+I am currently pursuing a Master's in Robotics at [Northwestern University](https://www.mccormick.northwestern.edu/robotics/overview/), with a keen interest in SLAM, Robot Manipulation, Computer Vision, and Machine Learning. I am passionate about exploring how these technologies can work together to create innovative solutions in the field of Robotics.
+
+Check out some of my projects below and for more, head over to my [portfolio](https://abhishek-sankar.com/).
