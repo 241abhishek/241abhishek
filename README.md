@@ -14,8 +14,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-My name is Abhishek Sankar.
+Abhishek Sankar | Robotics Software Engineer
 
-I graduated with a Master's in Robotics from [Northwestern University](https://www.mccormick.northwestern.edu/robotics/overview/) in December 2024. I have a keen interest in Robot Manipulation, Computer Vision, and Machine Learning, and I am passionate about exploring how these technologies can work together to create innovative solutions in the field of Robotics.
+Building the next generation of intelligent robotics.
+
+- M.S. Robotics @ [Northwestern University](https://www.mccormick.northwestern.edu/robotics/overview/) ('24)
+- Currently: Developing high-dexterity motion planners at [Origin Robotics](https://origin.tech/)
 
 Check out some of my projects below.
