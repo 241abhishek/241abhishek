@@ -16,6 +16,6 @@ Here are some ideas to get you started:
 -->
 My name is Abhishek Sankar.
 
-I graduated with a Master's in Robotics from [Northwestern University](https://www.mccormick.northwestern.edu/robotics/overview/) in December 2024. I have a keen interest in SLAM, Robot Manipulation, Computer Vision, and Machine Learning, and I am passionate about exploring how these technologies can work together to create innovative solutions in the field of Robotics.
+I graduated with a Master's in Robotics from [Northwestern University](https://www.mccormick.northwestern.edu/robotics/overview/) in December 2024. I have a keen interest in Robot Manipulation, Computer Vision, and Machine Learning, and I am passionate about exploring how these technologies can work together to create innovative solutions in the field of Robotics.
 
-Check out some of my projects below and for more, head over to my [portfolio](https://abhishek-sankar.com/).
+Check out some of my projects below.
